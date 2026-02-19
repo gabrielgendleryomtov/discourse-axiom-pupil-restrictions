@@ -1,0 +1,10 @@
+plugins:
+  axiom_pupil_restrictions_enabled:
+    default: true
+    client: true
+
+  axiom_pupil_restrictions_pupil_groups:
+    default: ""
+    client: true
+    type: group_list
+    description: "Groups whose members are treated as pupils for account-edit restrictions."

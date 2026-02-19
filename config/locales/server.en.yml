@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    axiom_pupil_restrictions_enabled: "Enable Axiom pupil account-edit restrictions"
+    axiom_pupil_restrictions_pupil_groups: "Pupil groups for username/full-name edit restrictions"
